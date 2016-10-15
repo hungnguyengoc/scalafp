@@ -1,0 +1,8 @@
+eclipse with-source=true
+exit
+clean
+cleanFiles
+clean-files
+compile
+eclipse with-source=true
+exit

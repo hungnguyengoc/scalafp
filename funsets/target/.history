@@ -1,0 +1,11 @@
+clean
+cleanFiles
+clean
+compile
+eclipse with-source=true
+exit
+clean
+clean-files
+compile
+submit hungnguyenngoc92@gmail.com bwSyaEXhB7ZHXY2e
+exit
